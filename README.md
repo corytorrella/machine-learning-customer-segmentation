@@ -1,5 +1,7 @@
 # Machine Learning Customer Segmentation
 
+Train an unsupervised machine learning algorithm to perform bank customer segmentation. This algorithm could be applied at any marketing department in the banking and retail industries.
+
 ### Objectives
 - Understand how to leverage the power of machine learning to transform marketing departments and perform customer segmentation
 - Apply Python libraries to import and visualize dataset images.
